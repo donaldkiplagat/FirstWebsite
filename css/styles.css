@@ -1,0 +1,27 @@
+h1{
+  color:maroon;
+  text-align:center;
+  font-size:
+}
+h2{
+  color: blue;
+  font-style: italic;
+  text-align: center;
+  background-color: black;
+}
+body{
+  font-size: medium;
+  font-weight:normal;
+}
+p{
+  font-family:sans-serif;
+  font-style: oblique;
+}
+ol{
+  line-height: 40px;
+  font-family: "serif";
+}
+ul{
+  line-height: 40px;
+  font-family: "serif";
+}
